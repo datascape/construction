@@ -20,7 +20,7 @@ Zero lot line variance - Add photos of neighbors on Bass
 
 *Phases 1-5*
 - 2022 - [HVAC](side) - New HVAC, Crawlspace wall under front porch.
-- 2022 - [Bumpout, Attic and Roof](phases) - Expand kitchen 3.5', attic porch, paint exterior
+- 2022 - [Bumpout, Attic and Roof](side) - Expand kitchen 3.5', attic porch, paint exterior
 - 2022 - [Bathroom - Downstairs](bathroom/) - New on south side
 - 2022 - [Upstairs - Bathroom and Craft Room](upstairs/) - Straighten stairway, upstairs bathroom, create downstairs pantry
 - 2022 - [Kitchen and Craftroom](kitchen) - Counters and cabinets in downstairs kitchen, craftroom and new pantry
