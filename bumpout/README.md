@@ -1,9 +1,11 @@
 #Bumpout, Attic and Roof
 
-## Phase 2 - North Exterior Wall, Attic with Shed Roof and Porch
+## Phases 1 and 2 - North Exterior Wall, Attic with Shed Roof and Porch
 
-- 3.5' north side bumpout for two stories.
+- HVAC Upgrade - Move gate and add 15.5' picket fence extension for airflow.
+- North side 3.5' bumpout - two stories and attic.
 - Windows on north side of kitchen, craft room and attic.
+- Porch on attic level with roof access.
 
 <a href="../exterior/img/rear/bumpout.jpg"><img src="../exterior/img/rear/bumpout.jpg" style="width:100%; max-width: 1000px"></a><br><br> 
 <!-- also bumpout-no-attic.jpg -->
@@ -48,8 +50,10 @@ Insulation and light weight attic shed roof similar to...
 ||||
 |---|---|---|
 | **Bumpout** | | |
+| HVAC Upgrade| $5,000 | $8,000 |
 | Bumpout and windows, shed roof and attic patio | $15,000 | $35,000 |
-| New Roof | $3500 | $8000 |
+| New Roof - entire house | $3,500 | $8,000 |
+| Painting- entire house | $9,000 | $10,000 |
 
 
 
