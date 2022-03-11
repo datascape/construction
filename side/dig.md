@@ -12,13 +12,14 @@ Might use removed sidewalk as fill under the 3.5' bumpout concrete slab (as long
 
 
 
+<a href="../exterior/img/rear/bumpout-dig.jpg"><img src="../exterior/img/rear/bumpout-dig.jpg" style="width:100%; max-width:1200px"></a><br><br>
 
 <a href="../exterior/img/rear/bumpout-side.jpg"><img src="../exterior/img/rear/bumpout-side.jpg" style="width:100%; max-width:1200px"></a><br><br>
 
-[Bumpout wall](../phases) added in phase 2. Wood pergola added during [Ongoing Projects](../projects) phase.
+[Bumpout wall](../bumpout) added in phase 2. Wood pergola added during [Ongoing Projects](../projects) phase.
 <br><br>
 
-<a href="../phases/img/AC/AC-enclosure.jpg"><img src="../phases/img/AC/AC-enclosure.jpg" style="width:100%; max-width:1200px"></a><br><br>
+<a href="../bumpout/img/AC/AC-enclosure.jpg"><img src="../bumpout/img/AC/AC-enclosure.jpg" style="width:100%; max-width:1200px"></a><br><br>
 
 
 
@@ -47,10 +48,10 @@ Seven 2' by 6'
 
 
 
-<a href="../phases/img/AC/AC-units-2D.jpg"><img src="../phases/img/AC/AC-units-2D.jpg" style="width:100%; max-width:1200px"></a>  
+<a href="../bumpout/img/AC/AC-units-2D.jpg"><img src="../bumpout/img/AC/AC-units-2D.jpg" style="width:100%; max-width:1200px"></a>  
 <br>
 
-<a href="../phases/img/AC/AC-units.jpg"><img src="../phases/img/AC/AC-units.jpg" style="width:100%; max-width:1200px"></a>  
+<a href="../bumpout/img/AC/AC-units.jpg"><img src="../bumpout/img/AC/AC-units.jpg" style="width:100%; max-width:1200px"></a>  
 <br><br>
 
 <div class="row" style="max-width:700px;">
@@ -91,5 +92,5 @@ For structural channel (crossbeam):<!-- 3 From Pierce.Firth -->
 
 <br>
 
-[Bumpout](../phases) 
+[Bumpout](../bumpout) 
 

@@ -145,6 +145,6 @@ Home Depot Minwax White wash -
 
 
 
-[Home](../) | [Upstairs](../upstairs/) | [Phases](../phases/)
+[Home](../) | [Upstairs](../upstairs/) | [Phases](../bumpout/)
 
 

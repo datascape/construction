@@ -77,7 +77,7 @@ Recessed lights in new front porch ceiling
 
 <br>
 
-<a href="../phases/img/AC/AC-enclosure.jpg"><img src="../phases/img/AC/AC-enclosure.jpg" style="width:100%; max-width:1200px"></a>  
+<a href="../bumpout/img/AC/AC-enclosure.jpg"><img src="../bumpout/img/AC/AC-enclosure.jpg" style="width:100%; max-width:1200px"></a>  
 <br>
 
 ## Fire Pit, Sprinkler System, Outdoor lighting <!-- The items below add to sale value, also "Dedicated office, home gym, roof deck, outdoor heater, no-touch appliances " -->

@@ -11,7 +11,7 @@ Basement Prep, Dig, Porch Base, Hollow Core Slab, 1/3 Sidewalk Bricks and Steps<
 | Remove slate patio stones and concrete. Retain state for filler or reuse. Store under exterior stairway. Store concrete on northeast side of house. | $200 | $400 |
 
 
-<a href="../phases/img/basement/initial.jpg"><img src="../phases/img/basement/initial.jpg" style="width:100%; max-width: 1000px"></a><br>
+<a href="../bumpout/img/basement/initial.jpg"><img src="../bumpout/img/basement/initial.jpg" style="width:100%; max-width: 1000px"></a><br>
 Before removal of laundry<br><br> 
 
 Homeowner will:  
@@ -51,7 +51,7 @@ Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 
 Also see [Rockcrete cage](https://rockcreteusa.com/products/18%E2%80%B3x1-25%E2%80%B3x36%E2%80%B3super-heavy-duty-trench-grate/) for durability.
 <br><br>
 
-<a href="../phases/img/basement.jpg"><img src="../phases/img/basement.jpg" style="width:100%; max-width:1200px"></a><br>
+<a href="../bumpout/img/basement.jpg"><img src="../bumpout/img/basement.jpg" style="width:100%; max-width:1200px"></a><br>
 <br><br>
 
 
@@ -96,7 +96,7 @@ After new roof is completed, include a metal ring on wire to prevent squirrels f
 
 <br>
 
-<a href="../phases/img/coreslab.jpg"><img src="../phases/img/coreslab.jpg" style="width:100%; max-width:1200px"></a>
+<a href="../bumpout/img/coreslab.jpg"><img src="../bumpout/img/coreslab.jpg" style="width:100%; max-width:1200px"></a>
 <br><br>
 
 
@@ -109,7 +109,7 @@ Electric heating will reside within basement floor to heat basement ceiling slab
 
 <br><br>
 
-<a href="http://www.concretetech.com/Adobe/hollowcorebuildingbrochure.pdf"><img src="../phases/img/hollowcore-drilling.png" style="width:100%; max-width: 800px"></a><br><br>
+<a href="http://www.concretetech.com/Adobe/hollowcorebuildingbrochure.pdf"><img src="../bumpout/img/hollowcore-drilling.png" style="width:100%; max-width: 800px"></a><br><br>
 
 
 [Concrete Industries - Indiana](https://concreteindustries.com/hollowcore/)
@@ -119,7 +119,7 @@ Electric heating will reside within basement floor to heat basement ceiling slab
 <br><br>
 
 <!--
-<img src="../phases/img/basement/core-slab-pcm.jpg" style="width:100%; max-width:800px"><br>
+<img src="../bumpout/img/basement/core-slab-pcm.jpg" style="width:100%; max-width:800px"><br>
 -->
 
 ### Sources of Precast Concrete for Hollow Core
@@ -148,7 +148,7 @@ Cellulose-infused concrete is stronger and sets faster
 | Three sets of steps at porch | $500 | $1000 |
 
 
-<a href="../phases/img/basement/slab.jpg"><img src="../phases/img/basement/slab.jpg" style="width:100%; max-width:1200px"></a><br>
+<a href="../bumpout/img/basement/slab.jpg"><img src="../bumpout/img/basement/slab.jpg" style="width:100%; max-width:1200px"></a><br>
 <br>
 
 Porch rail added in Patio phase:<br>
@@ -173,7 +173,7 @@ Porch rail added in Patio phase:<br>
 
 <br>
 
-<a href="../phases/img/basement/brickwork.jpg"><img src="../phases/img/basement/brickwork.jpg" style="width:100%; max-width:1200px"></a><br>
+<a href="../bumpout/img/basement/brickwork.jpg"><img src="../bumpout/img/basement/brickwork.jpg" style="width:100%; max-width:1200px"></a><br>
 <br><br>
 
 Waterflow at porch - Six levels of drain protection:
@@ -186,7 +186,7 @@ Waterflow at porch - Six levels of drain protection:
 6. Interior floor angles away from deeper basement, which has a sump pump.  
 
 Cement under sidewalk bricks:<br>
-<a href="../phases/img/basement/sidewalk.jpg"><img src="../phases/img/basement/sidewalk.jpg" style="width:100%; max-width:1200px"></a>
+<a href="../bumpout/img/basement/sidewalk.jpg"><img src="../bumpout/img/basement/sidewalk.jpg" style="width:100%; max-width:1200px"></a>
 
 
 

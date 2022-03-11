@@ -19,7 +19,7 @@ Zero lot line variance - Add photos of neighbors on Bass
 <a href="sketchup/721-Grant-Street.skp">Download SketchUp Model</a>
 
 *Phases 1-5*
-- 2021 - [Side Foundation](side) - Recessed AC area and drain. Crawlspace wall under front porch.
+- 2022 - [HVAC](side) - New HVAC, Crawlspace wall under front porch.
 - 2022 - [Bumpout, Attic and Roof](phases) - Expand kitchen 3.5', attic porch, paint exterior
 - 2022 - [Bathroom - Downstairs](bathroom/) - New on south side
 - 2022 - [Upstairs - Bathroom and Craft Room](upstairs/) - Straighten stairway, upstairs bathroom, create downstairs pantry

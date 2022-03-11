@@ -102,14 +102,14 @@ Use a mix of buff and charcole pigment (Too much buff becomes orange.)
 We have pigment, sand, lime, and Type N to mix for softer Type O.  
 See [Mortar Mix for Historic Homes](https://gpna.org/historic-home-care)<br><br>
 
-<a href="../phases/img/bricks/mortar-sandstone.png"><img src="../phases/img/bricks/mortar-sandstone.png" style="width:100%; max-width:500px"></a> 
+<a href="../bumpout/img/bricks/mortar-sandstone.png"><img src="../bumpout/img/bricks/mortar-sandstone.png" style="width:100%; max-width:500px"></a> 
 <br><br>
 
 Our existing mortar and bricks are too red. Wall looks fine...<br>
 
-<a href="../phases/img/bricks/brick-existing.png"><img src="../phases/img/bricks/brick-existing.png" style="width:100%; max-width:500px"></a>  
+<a href="../bumpout/img/bricks/brick-existing.png"><img src="../bumpout/img/bricks/brick-existing.png" style="width:100%; max-width:500px"></a>  
 
 
 <br>
 ---
-[Home](../) | [Side Foundation](../side/) | [Side Bumpout](../phases/) | [Front Porch](../ongoing/)
+[Home](../) | [Side Foundation](../side/) | [Side Bumpout](../bumpout/) | [Front Porch](../ongoing/)

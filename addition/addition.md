@@ -183,10 +183,10 @@ Insulation Recommendations - [from video](https://youtu.be/q2c8cLrZYkc?t=1507)
 
 ## Master and Attic Addtion Total
 
-Excludes [basement](../phases/) and [first floor mass timber](../patio/).  
+Excludes [basement](../bumpout/) and [first floor mass timber](../patio/).  
 <br>
 
 <div id="totals"></div>
 <br>
 
-[Home](../) | [Phases](../phases/)
+[Home](../) | [Phases](../bumpout/)
