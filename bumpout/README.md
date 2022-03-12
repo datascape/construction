@@ -50,10 +50,9 @@ Insulation and light weight attic shed roof similar to...
 ||||
 |---|---|---|
 | **Bumpout** | | |
-| HVAC Upgrade| $5,000 | $8,000 |
 | Bumpout and windows, shed roof and attic patio | $15,000 | $35,000 |
 | New Roof - entire house | $3,500 | $8,000 |
-| Painting- entire house | $9,000 | $10,000 |
+| Painting - entire house | $8,000 | $10,000 |
 
 
 
