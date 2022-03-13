@@ -185,8 +185,13 @@ Waterflow at porch - Six levels of drain protection:
 6. Interior floor angles away from deeper basement, which has a sump pump.  
 
 <br><br>
-<!--
-<a href="../bumpout/img/basement/sidewalk.jpg"><img src="../bumpout/img/basement/sidewalk.jpg" style="width:100%; max-width:1200px"></a>
--->
 
+
+<h1>Elevations</h1>
+
+<h2>South Elevation</h2><br>
+<a href="../elevations/img/side.jpg"><img src="../elevations/img/side.jpg" style="width:100%; max-width: 1200px"></a>
+
+<h2>West Elevation</h2><br>
+<a href="../elevations/img/4-levels.jpg"><img src="../elevations/img/4-levels.jpg" style="width:100%; max-width: 1200px"></a>
 
