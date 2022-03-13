@@ -1,22 +1,23 @@
 # Basement
 
+
+<a href="../bumpout/img/basement/initial.jpg"><img src="../bumpout/img/basement/initial.jpg" style="width:100%; max-width: 1000px"></a><br>
+Before removal of laundry<br><br> 
+
+<!--
 Basement Prep, Dig, Porch Base, Hollow Core Slab, 1/3 Sidewalk Bricks and Steps<br><br>
 
 | Prep for Basement Dig - Remove slate and rail road ties, Unhook AC units |||
 |---|---|---|
-| Jackhammer existing north cement for AC pad. Removed concrete can be used to fill void under kitchen bumpout. Initially store concrete on northeast side of house.  | $400 | $800 |
 | Remove and dispose of creosote railroad ties. | $200 | $500 |
 | Remove slate patio stones and concrete. Retain state for filler or reuse. Store under exterior stairway. Store concrete on northeast side of house. | $200 | $400 |
-
-
-<a href="../bumpout/img/basement/initial.jpg"><img src="../bumpout/img/basement/initial.jpg" style="width:100%; max-width: 1000px"></a><br>
-Before removal of laundry<br><br> 
 
 Homeowner will:  
 
 - Remove the rear laundry areas.  
 - Work with local handyman to add more jacks under house.  
 - Remove brick wall where trash cans reside. (Retaining bricks for reuse.) 
+-->
 
 <br>
 
@@ -183,8 +184,9 @@ Waterflow at porch - Six levels of drain protection:
 5. Goove below doors drains below porch.  
 6. Interior floor angles away from deeper basement, which has a sump pump.  
 
-Cement under sidewalk bricks:<br>
+<br><br>
+<!--
 <a href="../bumpout/img/basement/sidewalk.jpg"><img src="../bumpout/img/basement/sidewalk.jpg" style="width:100%; max-width:1200px"></a>
-
+-->
 
 

@@ -23,6 +23,7 @@ to me
 
 Loren,
 If you don't have blocks available in the Atlanta area, could I pick up anywhere between Georgia, Michigan, Illinois or Canada in June?
+
 Thank you for looking into The Perfect Block ICCF. 
 
 I'm sorry we don't have a distributor in those areas.  Our lead time at this time is a few months so I recommend calling Rick Tindal, his information is a few paragraphs down.
@@ -116,14 +117,8 @@ Thank you,
 
 Rochelle Gribler
 
-
-
-Manufacturer Of The Perfect Block Products
-
-       And Mobile Production Plants
-
-      www.theperfectblock.com 
-
-       8960 W. Larkspur Drive, Suite 105
-
-       Peoria, AZ 85381
+Manufacturer of "The Perfect Block" products
+And Mobile Production Plants
+www.theperfectblock.com 
+8960 W. Larkspur Drive, Suite 105
+Peoria, AZ 85381
