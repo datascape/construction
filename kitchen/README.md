@@ -7,9 +7,9 @@
 - Electric heating will be added under wood floors
 - Insulation added under new kitchen floor in crawlspace  
 
-## Phase 5
+<a href="img/kitchen.jpg"><img src="img/kitchen.jpg" style="width:100%; max-width: 1200px"></a><br><br><br> 
 
-<a href="img/kitchen.jpg"><img src="img/kitchen.jpg" style="width:100%; max-width: 1200px"></a><br><br>  
+## Floorplan
 
 <a href="img/kitchen-floorplan.jpg"><img src="img/kitchen-floorplan.jpg" style="width:100%; max-width: 1200px"></a>
 <br>
