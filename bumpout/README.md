@@ -22,9 +22,11 @@ Attic level during Full Addtion
 
 <a href="../exterior/img/rear/completed.jpg"><img src="../exterior/img/rear/completed.jpg" style="width:100%; max-width: 1000px"></a><br><br> 
 
+<h2>Exterior Northwest</h2>
+<a href="../exterior/img/northwest.jpg"><img src="../exterior/img/northwest.jpg" style="width:100%; max-width: 1200px"></a>
 
 
-Insulation and light weight attic shed roof similar to...
+Insulation and light weight attic shed roof:
 
 <!--
 <div style="float:left; margin-right:30px">
