@@ -27,13 +27,9 @@ Homeowner will:
 Possible resource: Fernando Garcia 404-538-2458 - Basement on Georgia Ave (July 2014) - Don't remember which house.
 -->
 
-- Digging the 4' basement stairway area will occur after the adjacent basement wall is added so we have structural support and an overhead rain cover while dirt is removed near the house.
 
-| **Temporarily unhook HVAC** | | |
-|---|---|---|
-| Remove freon and detach 2 AC units. Depending on weather, temporaily extend lines and move further east outside of fence | $100 | $700 |
-| &nbsp; | | |
 | **Basement Dig and Cement Work** | | |
+|---|---|---|
 | Basement Dig, Frame and Pour - includes sump pump and drain pipes | $10,000 | $30,000 |
 | Pour cement pad for AC Units | $600 | $800 |
 | North bump-out concrete foundation | $2,000 | $4,000 |
@@ -51,6 +47,7 @@ Also see [Rockcrete cage](https://rockcreteusa.com/products/18%E2%80%B3x1-25%E2%
 <br><br>
 
 <a href="../bumpout/img/basement.jpg"><img src="../bumpout/img/basement.jpg" style="width:100%; max-width:1200px"></a><br>
+Digging the 4' wide basement stairway will occur after the adjacent basement wall is added so we have structural support and an overhead rain cover while dirt is removed near the house.
 <br><br>
 
 
@@ -70,9 +67,8 @@ The basement will use triple pane windows that should feel just as warm to the t
 
 [Passive House Institute of the U.S.](https://www.phius.org/)  
 
-Also, [inicel](https://www.sweetcomposites.com/Minicel.html) - From Rob Macks  
+Also, [minicel insulation](https://www.sweetcomposites.com/Minicel.html) - From Rob Macks  
 
-Could air be cycled under slab to chill?  
 
 ## Move Exterior Electric Box
 
@@ -149,9 +145,6 @@ Cellulose-infused concrete is stronger and sets faster
 
 <a href="../bumpout/img/basement/slab.jpg"><img src="../bumpout/img/basement/slab.jpg" style="width:100%; max-width:1200px"></a><br>
 <br>
-
-Porch rail added in Patio phase:<br>
-<a href="../exterior/img/rear/slab.jpg"><img src="../exterior/img/rear/slab.jpg" style="width:100%; max-width: 1000px"></a><br><br> 
 
 
 
