@@ -1,13 +1,4 @@
-# Upstairs - Craft Room
-
-## Phase 4
-
-## Craft Room
-
-Some craftroom updates will occur during [kitchen updates](../kitchen)<br>
-
-
-<br>
+# Upstairs Craft Room
 
 <a href="../upstairs/img/craft.jpg"><img src="../upstairs/img/craft.jpg" style="width:100%; max-width: 1200px"></a><br><br>
 

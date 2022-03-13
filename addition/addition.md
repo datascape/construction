@@ -139,7 +139,7 @@ Loren's uncle may build sliding doors. Looking for more of a barn door style.<br
 | Hang additional doors currently in attic | $800 | $1,200 |
 | Large sliding bathroom door | $800 | $1,200 |
 
-<a href="../bathroom/samples/img/mirror-window-rect.jpg"><img src="../bathroom/samples/img/mirror-window-rect.jpg" style="width:100%; max-width:400px"></a><br>
+<a href="../bathrooms/samples/img/mirror-window-rect.jpg"><img src="../bathrooms/samples/img/mirror-window-rect.jpg" style="width:100%; max-width:400px"></a><br>
 
 
 ## Phase 14 - STEP Warmfloor in Basement

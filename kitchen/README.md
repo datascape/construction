@@ -1,4 +1,4 @@
-# Kitchen
+# Kitchen and Interior
 
 - Downstairs gourmet kitchen, counters and cabinets
 - Same location as current kitchen, after north wall moved 3.5' outward.

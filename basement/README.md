@@ -1,7 +1,5 @@
 # Basement
 
-## Phase 6
-
 Basement Prep, Dig, Porch Base, Hollow Core Slab, 1/3 Sidewalk Bricks and Steps<br><br>
 
 | Prep for Basement Dig - Remove slate and rail road ties, Unhook AC units |||

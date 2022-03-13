@@ -16,28 +16,26 @@ https://www.investopedia.com/terms/f/floor-area-ratio.asp
 Zero lot line variance - Add photos of neighbors on Bass
 -->
 
-<a href="sketchup/721-Grant-Street.skp">Download SketchUp Model</a>
+<a href="sketchup/721-Grant-Street.skp">SketchUp Model</a>
+
+[Ongoing Projects](projects/) - Repointing, crawlspace
 
 *Phases 1-5*
 - 2022 - [HVAC](side) - New HVAC, Crawlspace wall under front porch.
-- 2022 - [Bumpout, Attic and Roof](side) - Expand kitchen 3.5', attic porch, paint exterior
-- 2022 - [Bathroom - Downstairs](bathroom/) - New on south side
-- 2022 - [Upstairs - Bathroom and Craft Room](upstairs/) - Straighten stairway, upstairs bathroom, create downstairs pantry
-- 2022 - [Kitchen and Craftroom](kitchen) - Counters and cabinets in downstairs kitchen, craftroom and new pantry
-- 2023 - [Ongoing Projects](projects/) - Repointing, crawlspace
+- 2022 - [Bumpout](bumpout) - Expand north side 3.5', paint exterior
+- 2022 - [Bathrooms](bathrooms/) - New bathroom on south side, shower added upstairs
+- 2023 - [Kitchen](kitchen) - Cabinets, counters and new pantry
+- 2023 - [Craft Room](craftroom/)  
 
 *Phases 6-15*
-- 2025 - [Basement](basement/) 
-- 2025 - [Patio](patio/) - Mass timber over outdoor kitchen<!-- ($15,000)-->
-- 2028 - [Addition](addition/) - Master bedroon, master bath, grey water<!--($150,000)-->
-- 2028 - [Livingroom](livingroom/) 
+- 2024 - [Basement](basement/) 
+- 2025 - [Addition](addition/) - Master bedroom and bathroom<!--($150,000)-->
+- 2025 - [Livingroom](livingroom/) 
 
 
 ## Survey and Dimensions
 
 <a href="floorplan/img/survey.jpg"><img src="floorplan/img/survey.jpg" style="width:100%; max-width: 1200px"></a><br><br> 
-
-Existing house indicated in blue.  Laundry area will be removed from back.  <a href="sketchup/721-Grant-Street.skp">SketchUp Model</a>
 
 <a href="floorplan/img/floorplan.jpg"><img src="floorplan/img/floorplan.jpg" style="width:100%; max-width: 1000px"></a><br><br> 
 

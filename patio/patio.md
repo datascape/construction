@@ -1,7 +1,5 @@
 # Porch Railing and Patio
 
-## Phase 7
-
 <a href="../exterior/img/porch-rail.jpg"><img src="../exterior/img/porch-rail.jpg" style="width:100%; max-width:1200px"></a>
 
 ## Porch Railing, basement sliding door and according window.
@@ -19,13 +17,6 @@
 | Metal stairway in basement | $1,000 | $4,000 |
 | Basement window under porch. Black frame, an old factory look. Slides or swings open fully.  | $900 | $1,400 |
 | &nbsp; | | |
-
-
-## Exterior Details
-
-For reference:  
-
-<a href="../exterior/img/porch.jpg"><img src="../exterior/img/porch.jpg" style="width:100%; max-width:1200px"></a> 
 
 
 # Patio Area
