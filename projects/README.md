@@ -271,4 +271,4 @@ and [BankRates](https://www.bankrate.com/mortgages/mortgage-rates/?mortgageType=
 <br><br>
 
 ---
-[Home](../) | [Bathrooms](../bathrooms/)  | [Side Bumpout](../bumpout/) 
+[Home](../) | [Bathrooms](../bathrooms/)  | [Bumpout](../bumpout/) 

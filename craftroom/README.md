@@ -1,6 +1,6 @@
 # Upstairs Craft Room
 
-<a href="../upstairs/img/craft.jpg"><img src="../upstairs/img/craft.jpg" style="width:100%; max-width: 1200px"></a><br><br>
+<a href="img/craft.jpg"><img src="img/craft.jpg" style="width:100%; max-width: 1200px"></a><br><br>
 
 <a href="img/craftroom.png"><img src="img/craftroom.png" style="width:100%; max-width: 1200px"></a><br><br>
 

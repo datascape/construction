@@ -56,8 +56,10 @@ Design south windows to have wide sill. Italian country design. Not too orange. 
 ![](../bedroom/img/wood-ceiling-italy.png)  
 
 <div style="clear:both"></div>
-Might put an arch at top of window behind tub by master bedroom.
+COund put an arch at top of window behind tub by master bedroom.  
 
+For stuccu that looks old, with wide strokes see:  
+Amazing Vacation Rentals - Destination Wedding (Season 2, #2)
 
 <a name="minisplits">&nbsp;</a>
 
