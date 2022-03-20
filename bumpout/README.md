@@ -15,7 +15,7 @@ UPSTAIRS
 
 Existing outside R-22 AC unit has a leak in valve, so can't pump R22 freon down to reattach unless valve replaced.  All R22 freon has already been removed, so refilling could be 7 lbs at $120/lb = $840.
 
-Downstairs - 
+DOWNSTAIRS
 
 Outside R22 unit is loud.
 2.5 Ton, 90,000 BTU Horizontal Coil
@@ -59,7 +59,7 @@ Attic level during Full Addtion
 - Windows on north side of kitchen, craft room and attic.
 - Porch on attic level with roof access.
 
-<a href="../exterior/img/rear/completed.jpg"><img src="../exterior/img/rear/completed.jpg" style="width:100%; max-width: 1000px"></a><br><br> 
+<a href="../exterior/img/rear/bumpout-sw.jpg"><img src="../exterior/img/rear/bumpout-sw.jpg" style="width:100%; max-width: 1000px"></a><br><br> 
 
 <h2>Exterior Northwest</h2>
 <a href="../exterior/img/northwest.jpg"><img src="../exterior/img/northwest.jpg" style="width:100%; max-width: 1200px"></a>
