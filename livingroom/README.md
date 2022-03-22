@@ -103,7 +103,7 @@ A tankless water heater will reside by laundry machine upstairs.
 
 Terri's friend <a href="https://www.facebook.com/watch/live/?v=10160036402400436&ref=watch_permalink">Amy</a> presents a Rinnai Sensei tankless water heater, newer than Navien.  
 
-Current gas powered tank water heater in the upstairs kitchen will be moved into the attic above north bathrooms.  
+Current gas powered tank water heater in the upstairs kitchen will be moved into the attic above bathroom.  
 <!--
 	<img src="../livingroom/img/windows-three.jpg" style="width:100%; max-width: 1200px">  
 -->
