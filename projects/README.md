@@ -130,17 +130,10 @@ Add support poles with aluminum at top
 Northwest corner caulk  
 Nail holes and other repairs around house  
 
-## Rear laundry room
-
-Add molding inside rear laundry room
-
 ## Porch floor
 
 Replace wood floor by front door  
 Working on hatch door for front porch  
-
-<br>
-
 
 
 
@@ -242,11 +235,16 @@ Recessed lights in new front porch ceiling
 <a href="https://www.houzz.com/photos/historic-whole-house-renovation-screened-porch-craftsman-porch-atlanta-phvw-vp~3849435"><img src="../porch/img/porch.jpg" style="width:100%; max-width: 1200px"></a>
 
 
-## Pergola over HVAC units
+## Pergola on north side
+
+This is an older rendering.
+
+<!--
 ||||
 |---|---|---|
 | Pergola wood structure for jasmin over exterior HVAC grate.  For longevity, might cover top of wood surface A provacy insert (decoration) will provide privacy | $1,500 | $3,500 |
 | Wood archway beside front porch. Wood archway on south side. See [Sierra Vinyl Arbor](https://www.wayfair.com/outdoor/pdp/new-england-arbors-sierra-vinyl-arbor-zne1182.html) | $800 | $1,300 |
+-->
 
 <br>
 
@@ -256,7 +254,7 @@ Recessed lights in new front porch ceiling
 ## Fire Pit, Sprinkler System, Outdoor lighting <!-- The items below add to sale value, also "Dedicated office, home gym, roof deck, outdoor heater, no-touch appliances " -->
 ||||
 |---|---|---|
-| Add fire pit in back yard | $800 | $1,000 |
+| Add fire pit in front yard | $800 | $1,000 |
 | Smart sprinkler system | $800 | $3,000 |
 | Outdoor lighting | $800 | $2,000 |
 
@@ -293,7 +291,7 @@ We could have 4 super strut carriages from Home Depot, with four wheels below an
 ## PowerPod wind energy
 ||||
 |---|---|---|
-| [PowerPod wind energy](https://www.halcium.com) (paired with solar) | $2,000 | $7,000 |
+| [PowerPod wind energy](https://www.halcium.com) (paired with solar and SkyCool) | $2,000 | $7,000 |
 
 
 
@@ -317,4 +315,4 @@ and [BankRates](https://www.bankrate.com/mortgages/mortgage-rates/?mortgageType=
 <br><br>
 
 ---
-[Home](../) | [Bathrooms](../bathrooms/)  | [Bumpout](../bumpout/) 
+[Home](../) | [Bumpout](../bumpout/) | [Bathrooms](../bathrooms/)  
