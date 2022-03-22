@@ -7,38 +7,49 @@
 
 ## HVAC
 
-Moving new units to pads outside fence  
+Moving new units to pads outside fence, relocating pipes in attic.  
+Connect new freon pipe from under house.  
+Attach pipe under HVAC in attic.
 
-New freon is called 4-10-A  
 
-UPSTAIRS
+### Upstairs
 
-Existing outside R-22 AC unit has a leak in valve, so can't pump R22 freon down to reattach unless valve replaced.  All R22 freon has already been removed, so refilling could be 7 lbs at $120/lb = $840.
+All R22 freon has already been removed. Use $50/lb R425a to refill. <!-- New freon is called 4-10-A  -->  
+Existing outside R-22 AC unit has a leak in valve, so can't pump R22 freon down to reattach unless valve replaced.  
+Attic HVAC: 3 Ton, 90,000 BTU
 
-DOWNSTAIRS
+<!-- so refilling could be 7 lbs at $120/lb = $840. -->
 
-Outside R22 unit is loud.
-2.5 Ton, 90,000 BTU Horizontal Coil
-Carrier Comfort Series quote from Daniel: 5,900 + 1,700 labor = $7,600
-Earl says we have a Leno unit in basement
 
-Daniel 404-574-8424
-does not use email and needs equipment cash up front
+<!--
+Consideration for AC
+[Carrier Comfort-3.0 Ton 14 Series 15.0 SEER Residential Heat Pump System - 25HCE436 FX4DNF037L](https://www.expressoverstock.com/carrier-comfort-3-0-ton-14-series-15-0-seer-residential-heat-pump-system-25hce436-fx4dnf037l.html) - $4,619 
+Sound 69 dBA
 
-### Unit Serving Upstairs
+
+58 
+
+[58STA090-1-14 Carrier 4-Way Multipoise Induced Combustion Single Stage Gas Furnace](https://new.ncshvac.com/?product=58sta090-1-14) - $2,237  
+-->
+
+### Downstairs
+
+Outside R22 unit is loud. Replace with new one that uses R425a.  
+Crawlspace HVAC: 2.5 Ton, 90,000 BTU Horizontal Coil - By Lenox<!-- Earl thinks -->
+<!--Carrier Comfort Series quote from Daniel: 5,900 + 1,700 labor = $7,600  -->  
+  
+
+<!--Daniel 404-574-8424
+Does not use email and needs equipment cash up front.  My search using his IDs found:
+-->
 
 <!--
 AC Repair Project - I'm looking for someone to replace a leaking service valve in an R22 unit so we can pump the freon down when relocating it. We're not able to read the label so we're not sure of the brand. It's been working well otherwise. It's connected to 3 ton, 90,000 BTU. Also interested in buying a quite running R22 for a 2.5 ton, 90,000 BTU system.
 -->
 
-[Carrier Comfort-3.0 Ton 14 Series 15.0 SEER Residential Heat Pump System - 25HCE436 FX4DNF037L](https://www.expressoverstock.com/carrier-comfort-3-0-ton-14-series-15-0-seer-residential-heat-pump-system-25hce436-fx4dnf037l.html) - $4,619  
-Sound 69 dBA
 
 
-58 
-<!--
-[58STA090-1-14 Carrier 4-Way Multipoise Induced Combustion Single Stage Gas Furnace](https://new.ncshvac.com/?product=58sta090-1-14) - $2,237  
--->
+
 
 
 
@@ -54,7 +65,7 @@ Repair crawlspace vent openings for tight fit.
 Northwest corner - Add bricks to seal behind PVC board. Use small jack.  
 
 
-**Holcim Atlanta Red Mortar**  
+**Maybe: Holcim Atlanta Red Mortar**  
 ALLEY-CASSETTY BRICK - ATLANTA DIVISION  
 1115 SOUTHERN ROAD, Morrow, GA 30260 (770) 961-4477  
 Also at 4745 HAMMOND INDUSTRIAL DR., CUMMING, GA 30041 (770) 889-2998  
@@ -74,8 +85,8 @@ Hole on west side - About 2' tall by 3.5' wide.
 Set on two rows of cinder blocks and use cinder blocks to hold in place.  
 Wall on east side - will sit on 2 cinder blocks  
 
-
-## 10' Cement Drain Pipe (on hold)
+<!--
+## 8' Drain Pipe (on hold)
 
 Dig hole for drain pipe from street to AC  
 Dig Hole for 4" PVC split to front yard  
@@ -83,18 +94,14 @@ Access box and 4" T
 Install 10" concrete pipe (50' 8")  
 Overflow box at end of 10" pipe, 6" pipe to sidewalk  
 
-## Add new freon pipe
-
-Pump out freon, detach 2 units  
-Install new freon pipe under house and through wall to attic  
-Run under attic floor to HVAC in attic
-
 ## Dig recessed HVAC area
 
 Cut cement for side foundation  
 Dig hole for recessed AC Units and side foundation 
 Set up concrete forms  
 Concrete pour
+
+-->
 
 
 <div style="page-break-after: always;"></div>
