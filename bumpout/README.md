@@ -53,15 +53,16 @@ Orange indicates existing laundry rooms.
 
 
 
-<h2>Completed Exterior</h2>
+<h2>Working Toward</h2>
 
-Later phases after bumpout. Aiming for completion by 2025.
+Later phases after bumpout. Aiming for completion in 2025.  
 
-<a href="../exterior/img/southwest.jpg"><img src="../exterior/img/southwest.jpg" style="width:100%; max-width: 1200px"></a><br><br>
+<a href="../exterior/img/southwest.jpg"><img src="../exterior/img/southwest.jpg" style="width:100%; max-width: 1200px"></a>  
 
+Southwest side<br>  
 
-<a href="../exterior/img/northwest.jpg"><img src="../exterior/img/northwest.jpg" style="width:100%; max-width: 1200px"></a>
-
+<a href="../exterior/img/northwest.jpg"><img src="../exterior/img/northwest.jpg" style="width:100%; max-width: 1200px"></a><br>
+Northwest side  
 
 <!--
 <div style="float:left; margin-right:30px">
