@@ -32,9 +32,30 @@ Orange indicates existing laundry rooms.
 
 <a href="../exterior/img/rear/bumpout-sw.jpg"><img src="../exterior/img/rear/bumpout-sw.jpg" style="width:100%; max-width: 1000px"></a><br><br> 
 
+
+
+||||
+|---|---|---|
+| **Bumpout** | | |
+| Bumpout and windows, shed roof and attic patio | $15,000 | $35,000 |
+| Shingles - remove existing two layers, entire house and new section | $3,500 | $10,000 |
+
+||||
+|---|---|---|
+| **Painting** | | |
+| Prep and Painting - entire house | $8,000 | $10,000 |
+
+
+
+<br><br>
+<div id="totals"></div>
+<br>
+
+
+
 <h2>Completed Exterior</h2>
 
-Aiming for completion by 2025
+Later phases after bumpout. Aiming for completion by 2025.
 
 <a href="../exterior/img/southwest.jpg"><img src="../exterior/img/southwest.jpg" style="width:100%; max-width: 1200px"></a><br><br>
 
@@ -72,25 +93,7 @@ Aiming for completion by 2025
 
 
 
-
-||||
-|---|---|---|
-| **Bumpout** | | |
-| Bumpout and windows, shed roof and attic patio | $15,000 | $35,000 |
-| Shingles - remove existing two layers, entire house and new section | $3,500 | $10,000 |
-
-||||
-|---|---|---|
-| **Painting** | | |
-| Prep and Painting - entire house | $8,000 | $10,000 |
-
-
-
-<br><br>
-<div id="totals"></div>
-<br>
-
-
 ---
-[Bathroom](../bathrooms/) | 
-[Upstairs](../upstairs/) 
+[Home](../) | 
+[Bathrooms](../bathrooms/) 
+

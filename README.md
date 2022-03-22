@@ -20,17 +20,17 @@ Zero lot line variance - Add photos of neighbors on Bass
 
 [Ongoing Projects](projects/) - Repointing, crawlspace
 
-*Phases 1-5*
+*Phases 1-3*
 - 2022 - [Bumpout Prep](side) - Move HVAC, Side foundation and plans to city
-- 2022 - [Bumpout](bumpout) - Expand north side 3.5', Attic addition with shed roof
+- 2022 - [Bumpout and Attic Shed Roof](bumpout) - Expand north side 3.5', Attic addition with shed roof
 - 2022 - [Bathrooms](bathrooms/) - New bathroom on south side, shower added upstairs
-- 2023 - [Kitchen](kitchen) - Cabinets, counters and new pantry
-- 2023 - [Craft Room](craftroom/)  
 
-*Phases 6-15*
-- 2024 - [Basement](basement/) 
-- 2025 - [Addition](addition/) - Master bedroom and bathroom<!--($150,000)-->
+*Phases 4-15*
+- 2023 - [Basement](basement/) 
+- 2024 - [Addition](addition/) - Master bedroom and bathroom<!--($150,000)-->
+- 2025 - [Kitchen](kitchen) - Cabinets, counters and new pantry
 - 2025 - [Livingroom](livingroom/) 
+- 2025 - [Craft Room](craftroom/)  
 
 
 ## Survey and Dimensions
