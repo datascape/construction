@@ -21,8 +21,8 @@ Zero lot line variance - Add photos of neighbors on Bass
 [Ongoing Projects](projects/) - Repointing, crawlspace
 
 *Phases 1-5*
-- 2022 - [HVAC](side) - New HVAC, Crawlspace wall under front porch.
-- 2022 - [Bumpout](bumpout) - Expand north side 3.5', paint exterior
+- 2022 - [Bumpout Prep](side) - Move HVAC, Side foundation and plans to city
+- 2022 - [Bumpout](bumpout) - Expand north side 3.5', Attic addition with shed roof
 - 2022 - [Bathrooms](bathrooms/) - New bathroom on south side, shower added upstairs
 - 2023 - [Kitchen](kitchen) - Cabinets, counters and new pantry
 - 2023 - [Craft Room](craftroom/)  
