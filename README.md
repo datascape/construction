@@ -46,7 +46,7 @@ Zero lot line variance - Add photos of neighbors on Bass
 
 ### Addition:
 639 ft² per floor (includes stairway openings. Does not include exterior walls)   
-48.13 ft² per floor - North jut-out adjacent to existing kitchen.  
+48.13 ft² per floor - Bumpout adjacent to existing kitchen.  
 1374.26 ft² total new addition
 
 Total (excluding attic and basement):  
