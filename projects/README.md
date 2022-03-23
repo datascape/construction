@@ -4,6 +4,7 @@
 <a href="../patio">Patio</a>
 </div>
 
+TO DO: Get [minicel insulation](https://www.sweetcomposites.com/Minicel.html) strips or similar for sides of PVC-board barrier under porch. Glue to bricks.  
 
 ## HVAC
 
@@ -50,40 +51,45 @@ AC Repair Project - I'm looking for someone to replace a leaking service valve i
 
 
 
+## Repointing Bricks
 
+### Exterior south side
 
+Repointing exterior could be separate from crawlspace. Simon mentioned a tan shade.  
+Repair crawlspace vent openings around house for tight fit. We have replacement vents.  
 
+### Crawlspace
 
-## Repointing Crawlspace
-
-Prep far end of crawlspace, clean ground, remove loose mortar.  
-Place aluminum under wood (avoid nailing). Bend far edge down 1/2 inch first, then close edge after adding mortar.  
 We have ingredients for Type O mortar mix already.  
-Add Type O mortar and bricks on top edges within crawlspace - up to aluminum.  
-Patch exterior holes with Type O mortar mix (For south side, use Holcim Atlanta Red with sand and lime added)  
-Repair crawlspace vent openings for tight fit.  
-Northwest corner - Add bricks to seal behind PVC board. Use small jack.  
+1. Place aluminum under wood (avoid nailing). Bend far edge down 1/2 inch first - prevents termites. 
+2. Add Type O mortar and bricks on top edges within crawlspace - up to aluminum.  
+3. Bend close edge of aluminum after adding mortar.  
 
+Northwest corner - Add bricks to seal behind PVC board. Use small jack if needed.  
 
-**Maybe: Holcim Atlanta Red Mortar**  
+For minor patches in tall columns, we might use Holcim Atlanta Red with sand and lime added.  
+
+Holcim Atlanta Red Mortar provider:  
 ALLEY-CASSETTY BRICK - ATLANTA DIVISION  
 1115 SOUTHERN ROAD, Morrow, GA 30260 (770) 961-4477  
 Also at 4745 HAMMOND INDUSTRIAL DR., CUMMING, GA 30041 (770) 889-2998  
-And [more](https://generalshale.com/locator/)  
+And more at [generalshale.com/locator/](https://generalshale.com/locator/)  
 
 
 ## Plumbing under house
 
-Add handle value on 3/4" copper pipe and replace external faucet  
+Add handle value on 3/4" copper pipe and replace external faucet - probably have already  
 Add valve for rear faucet (need to get)  
-Remove faucet on north side (professional)  
-Add new main valve to house to improve water pressure (professional)  
+Remove faucet on north side
+
+Pro:  
+Add new main valve to house to improve water pressure  
+
 
 ## Weather barrier using PVC boards
 
-Hole on west side - About 2' tall by 3.5' wide.  
-Set on two rows of cinder blocks and use cinder blocks to hold in place.  
-Wall on east side - will sit on 2 cinder blocks  
+In progress:
+Wall on east side on cinder blocks  
 
 <!--
 ## 8' Drain Pipe (on hold)
