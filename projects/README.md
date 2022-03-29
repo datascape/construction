@@ -4,20 +4,22 @@
 <a href="../patio">Patio</a>
 </div>
 
+TO DO: Drip drainage pipes and elbows
+
 ## AC Move
 
 Moving AC units to pads outside fence, relocating pipes in attic and on side of house.<br><br>
 <a href="img/hvac-pipes/overhead.jpg"><img src="img/hvac-pipes/overhead.jpg" style="width:100%; max-width:500px"></a><br><br>
 
-1. Detach and reattach pipe to move under HVAC in attic. (Currently goes over top of HVAC.)  Pipes have already been cut about 10 feet away from HVAC.  
+1. Detach and reattach 7/8" pipe at back of attic HVAC to move under HVAC. (Currently goes over top of HVAC.)  Pipes have already been cut about 10 feet away from HVAC.  (Outside, the 7/8" pipe becomes 3/4" where it enters AC.)
 
-2. With the 19' verticle pipe laid on the gound, add a 90 elbow connected to a 91" pipe, which Loren will feed into existing opening under the eve.<br><br>
+2. With the 19' verticle 7/8" pipe laid on the gound, add a 90 elbow connected to a 91" pipe, which Loren will feed into existing opening under the eve.<br><br>
 <a href="img/hvac-pipes/under-eve.jpg"><img src="img/hvac-pipes/under-eve.jpg" style="width:100%; max-width:500px"></a><a href="img/hvac-pipes/into-attic.jpg"><img src="img/hvac-pipes/into-attic.jpg" style="width:100%; max-width:500px"></a><br><br>
 
 3. Connect pipe in attic. (Diameter 27/32" - almost 7/8")<br><br>
-<a href="img/hvac-pipes/attic-pipe-diameter.jpg"><img src="img/hvac-pipes/attic-pipe-diameter.jpg" style="width:100%; max-width:500px"></a><br><br>
+<a href="img/hvac-pipes/attic-pipe-diameter.jpg"><img src="img/hvac-pipes/attic-pipe-diameter.jpg" style="width:100%; max-width:250px"></a><br><br>
 
-4. Extend pipe from under house 108". We have removed brick so it will not be necessary to go under house. (Currently 74" pipe goes from under house to AC). Place new pipe in 3" PVC.
+4. Extend 3/4" pipe from under house 108". We have removed brick so it will not be necessary to go under house. (Currently 74" pipe goes from under house to AC). Place new pipe in 3" PVC.
 
 5. Add an elbow at bottom of verticle pipe from attic.
 
