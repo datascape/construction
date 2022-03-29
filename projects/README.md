@@ -4,20 +4,39 @@
 <a href="../patio">Patio</a>
 </div>
 
-TO DO: Get [minicel insulation](https://www.sweetcomposites.com/Minicel.html) strips or similar for sides of PVC-board barrier under porch. Glue to bricks.  
+## AC Move
 
-## HVAC
+Moving AC units to pads outside fence, relocating pipes in attic and on side of house.<br><br>
+<a href="img/hvac-pipes/overhead.jpg"><img src="img/hvac-pipes/overhead.jpg" style="width:100%; max-width:500px"></a><br><br>
 
-Moving new units to pads outside fence, relocating pipes in attic.  
-Connect new freon pipe from under house.  
-Attach pipe under HVAC in attic.
+1. Detach and reattach pipe to move under HVAC in attic. (Currently goes over top of HVAC.)  Pipes have already been cut about 10 feet away from HVAC.  
+
+2. With the 19' verticle pipe laid on the gound, add a 90 elbow connected to a 91" pipe, which Loren will feed into existing opening under the eve.<br><br>
+<a href="img/hvac-pipes/under-eve.jpg"><img src="img/hvac-pipes/under-eve.jpg" style="width:100%; max-width:500px"></a><a href="img/hvac-pipes/into-attic.jpg"><img src="img/hvac-pipes/into-attic.jpg" style="width:100%; max-width:500px"></a><br><br>
+
+3. Connect pipe in attic. (Diameter 27/32" - almost 7/8")<br><br>
+<a href="img/hvac-pipes/attic-pipe-diameter.jpg"><img src="img/hvac-pipes/attic-pipe-diameter.jpg" style="width:100%; max-width:500px"></a><br><br>
+
+4. Extend pipe from under house 108". We have removed brick so it will not be necessary to go under house. (Currently 74" pipe goes from under house to AC). Place new pipe in 3" PVC.
+
+5. Add an elbow at bottom of verticle pipe from attic.
+
+6. Place both AC lines in the 4" elbow. Connect.
+
+7. Run pipes in 3" PVC and 4" elbow to AC units outside fence.
 
 
-### Upstairs
+8. Move unit serving upstairs. All R22 freon has already been removed. Use $50/lb R425a or similar to refill.  Unit has a leak in valve that prevented soldering. Earl says we can solder now that all freon is removed.
 
-All R22 freon has already been removed. Use $50/lb R425a to refill. <!-- New freon is called 4-10-A  -->  
-Existing outside R-22 AC unit has a leak in valve, so can't pump R22 freon down to reattach unless valve replaced.  
-Attic HVAC: 3 Ton, 90,000 BTU
+9. Pump down freon and move unit serving upstairs.
+
+<br>
+
+#### HVACs
+
+<!-- New freon for a new unit is called 4-10-A, but Earl says an even newer freon is coming soon.  --> 
+
+Upstairs HVAC: 3 Ton, 90,000 BTU
 
 <!-- so refilling could be 7 lbs at $120/lb = $840. -->
 
@@ -33,10 +52,8 @@ Sound 69 dBA
 [58STA090-1-14 Carrier 4-Way Multipoise Induced Combustion Single Stage Gas Furnace](https://new.ncshvac.com/?product=58sta090-1-14) - $2,237  
 -->
 
-### Downstairs
-
-Outside R22 unit is loud. Replace with new one that uses R425a.  
 Crawlspace HVAC: 2.5 Ton, 90,000 BTU Horizontal Coil - By Lenox<!-- Earl thinks -->
+<!-- Outside R22 unit is loud. Replace with new one that uses R425a. -->
 <!--Carrier Comfort Series quote from Daniel: 5,900 + 1,700 labor = $7,600  -->  
   
 
