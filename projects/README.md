@@ -12,9 +12,9 @@ Moving AC units to pads outside fence, relocating pipes in attic and on side of 
 1. Detach and reattach 7/8" pipe at back of attic HVAC to move under HVAC. (Currently goes over top of HVAC.)  Pipes have already been cut about 10 feet away from HVAC.  (Outside, the 7/8" pipe becomes 3/4" where it enters AC.)
 
 2. Add a 90° elbow to the top of verticle 7/8" pipe. We can either lay the pipe on the gound and solder a 91" pipe to the top to feed through a widened opening under the eve, or feed down from above and solder it on the side of the house.<br><br>
-<a href="img/hvac-pipes/under-eve.jpg"><img src="img/hvac-pipes/under-eve.jpg" style="width:100%; max-width:500px"></a><a href="img/hvac-pipes/into-attic.jpg"><img src="img/hvac-pipes/into-attic.jpg" style="width:100%; max-width:500px"></a><br><br>
+<a href="img/hvac-pipes/under-eve.jpg"><img src="img/hvac-pipes/under-eve.jpg" style="width:100%; max-width:500px"></a><a href="img/hvac-pipes/into-attic.jpg"><img src="img/hvac-pipes/into-attic.jpg" style="width:100%; max-width:500px"></a><br>
 
-3. Connect pipe in attic. (7/8" diameter)<br><br>
+3. Connect pipe in attic. (7/8" diameter)  
 
 4. Extend 3/4" pipe from under house 108". We have removed brick so it will not be necessary to go under house. (Currently 74" pipe goes from under house to AC). Place new pipe in 3" PVC.
 
@@ -25,9 +25,14 @@ Moving AC units to pads outside fence, relocating pipes in attic and on side of 
 7. Run pipes in PVC to AC units outside fence.<br><br>
 <a href="img/hvac-pipes/pipe-under-house.jpg"><img src="img/hvac-pipes/pipe-under-house.jpg" style="width:100%; max-width:700px; margin-right:10px"></a><a href="img/hvac-pipes/sidewalk-cut.jpg"><img src="img/hvac-pipes/sidewalk-cut.jpg" style="width:100%; max-width:700px; margin-right:10px"></a><a href="img/hvac-pipes/pipe-outside-fence.jpg"><img src="img/hvac-pipes/pipe-outside-fence.jpg" style="width:100%; max-width:500px"></a><br><br>
 
-8. Move AC serving upstairs. All R22 freon has already been removed. Use $50/lb R425a or similar to refill.  Unit has a leak in valve that prevented soldering. Earl says we can solder it now that all freon is removed.
+8. Add 3/4" pipe valves to disconnected unit. Johnstone Supply Atlanta is transfering for us from their other store. 
 
-9. Move AC serving downstairs. Pump down freon. This one is currently working. Confirm other AC is functional before disconnecting this one.
+9. Move AC serving upstairs. All R22 freon has already been removed.<br>
+Unit has a leak in valve that prevented soldering. Earl says we can solder it now that all freon is removed.<br><br>
+Earl was told by the supply store that we could use $50/lb R425a or similar to refill.<br>
+Johnstone Supply Atlanta told Loren they use 407c, 427a, MO99 based on the pressure. Said to flush whole system for oil.  
+
+10. Move AC serving downstairs. This one is currently working. Confirm other AC is functional before disconnecting this one. Pump down freon. Add 3/4" pipe valve when reconnecting.  
 
 <br>
 
@@ -68,15 +73,18 @@ AC Repair Project - I'm looking for someone to replace a leaking service valve i
 
 4" pipe T with 3" sweep  
 2 - 4" to 2" couplers  
-Trade Pipe & Plumbing (Expanding) Foam Genius 300ml - [Soudal](https://www.soudal.co.uk/diy/products/trade-range/sanitary/trade-pipe-plumbing-foam-gen)  
+Trade Pipe & Plumbing (Expanding) Foam Genius 300ml - [Soudal](https://www.soudal.co.uk/diy/products/trade-range/sanitary/trade-pipe-plumbing-foam-gen) or Blue 3M<!-- guy from McKinney's which is on Moreland, but drive an hour+ -->  
 Avoiding foams with Amines and Chlorinated phosphate esters such as TCPP (a/k/a tris-iso-chloropropyl phosphate)  
+8 corner pads to reduces vibration - about 4" by 4" at Johnstone Supply Atlanta.
 
 #### Jeff to buy:
 
 Wire for upstairs unit.  About 60'.  
 Additional pipes and insulation.  
 3/4" and 7/8" pipe couplers and elbows.  
+<br>
 
+Johnstone Supply Atlanta is open weekdays 7am to 6pm, Saturday 9am to 1pm.  
 
 ## Repointing Bricks
 
