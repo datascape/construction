@@ -11,7 +11,7 @@ Moving AC units to pads outside fence, relocating pipes in attic and on side of 
 
 1. Detach and reattach 7/8" pipe at back of attic HVAC to move under HVAC. (Currently goes over top of HVAC.)  Pipes have already been cut about 10 feet away from HVAC.  (Outside, the 7/8" pipe becomes 3/4" where it enters AC.)
 
-2. With the 19' verticle 7/8" pipe laid on the gound, add a 90 elbow connected to a 91" pipe, which Loren will feed into existing opening under the eve.<br><br>
+2. Add a 90° elbow to the top of verticle 7/8" pipe. We can either lay the pipe on the gound and solder a 91" pipe to the top to feed through a widened opening under the eve, or feed down from above and solder it on the side of the house.<br><br>
 <a href="img/hvac-pipes/under-eve.jpg"><img src="img/hvac-pipes/under-eve.jpg" style="width:100%; max-width:500px"></a><a href="img/hvac-pipes/into-attic.jpg"><img src="img/hvac-pipes/into-attic.jpg" style="width:100%; max-width:500px"></a><br><br>
 
 3. Connect pipe in attic. (7/8" diameter)<br><br>
