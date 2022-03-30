@@ -1,5 +1,9 @@
 # Livingroom and Master Bedroom Addition
 
+[Rate Trends (Freddie Mac)](http://www.freddiemac.com/pmms/) 
+and [BankRates](https://www.bankrate.com/mortgages/mortgage-rates/?mortgageType=Refinance&partnerId=br3&pid=br3&pointsChanged=false&refinanceCashOutAmount=0&refinanceLoanAmount=384000&refinanceLoanTerms=30yr&refinancePoints=All&refinancePropertyType=SingleFamily&refinancePropertyUse=PrimaryResidence&refinancePropertyValue=480000&searchChanged=false&ttcid&userCreditScore=740&userFha=false&userVeteranStatus=NoMilitaryService&zipCode=30315)
+
+
 ## Phase 8 - Framework, Roof, Insulation, Windows, Siding
 
 

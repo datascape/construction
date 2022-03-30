@@ -265,10 +265,15 @@ Recessed lights in new front porch ceiling
 
 <a href="https://www.houzz.com/photos/historic-whole-house-renovation-screened-porch-craftsman-porch-atlanta-phvw-vp~3849435"><img src="../porch/img/porch.jpg" style="width:100%; max-width: 1200px"></a>
 
-
+<!--
 ## Pergola on north side
 
 This is an older rendering.
+<br>
+
+<a href="../bumpout/img/AC/AC-enclosure.jpg"><img src="../bumpout/img/AC/AC-enclosure.jpg" style="width:100%; max-width:1200px"></a>  
+<br>
+-->
 
 <!--
 ||||
@@ -277,10 +282,7 @@ This is an older rendering.
 | Wood archway beside front porch. Wood archway on south side. See [Sierra Vinyl Arbor](https://www.wayfair.com/outdoor/pdp/new-england-arbors-sierra-vinyl-arbor-zne1182.html) | $800 | $1,300 |
 -->
 
-<br>
 
-<a href="../bumpout/img/AC/AC-enclosure.jpg"><img src="../bumpout/img/AC/AC-enclosure.jpg" style="width:100%; max-width:1200px"></a>  
-<br>
 
 ## Fire Pit, Sprinkler System, Outdoor lighting <!-- The items below add to sale value, also "Dedicated office, home gym, roof deck, outdoor heater, no-touch appliances " -->
 ||||
@@ -293,13 +295,16 @@ This is an older rendering.
 ## Elevator
 
 Slotted Metal Framing Strut Channel  
-Motor and wench in attic for two redundant cables  
+Either motor and wench in attic with two cables for redundancy, or motor(s) in base of elevator.  
 
 ||||
 |---|---|---|
 | Power, brakes and cable system | $3,000 | $5,000 |
 | Metal Cage and Doors | $3,000 | $7,000 |
 | Automated doors at 3 levels | $4,000 | $7,000 |
+
+Not accessing basement. Could angle upper rear edge to accomodate roofline.  
+Would retain over 7' clearance in front 2/3 of elevator.  
 
 <!--
 Super Strut Carriage - 
@@ -331,14 +336,10 @@ We could have 4 super strut carriages from Home Depot, with four wheels below an
 <br>
 
 <!--
-Brackers for hanging shovels reside on north side of chminey.  
+Brackets for hanging shovels reside on north side of chiminey.  
 
 Later, energy could be generated during drip irrigation on cloudy days by turning a small turbine with the descending water.  Turbine could by bypassed when higher pressure is used to water lawn. 2 antique tanks within the backside of the fireplace could hold additional water.
 -->
-
-- [Rate Trends (Freddie Mac)](http://www.freddiemac.com/pmms/) 
-and [BankRates](https://www.bankrate.com/mortgages/mortgage-rates/?mortgageType=Refinance&partnerId=br3&pid=br3&pointsChanged=false&refinanceCashOutAmount=0&refinanceLoanAmount=384000&refinanceLoanTerms=30yr&refinancePoints=All&refinancePropertyType=SingleFamily&refinancePropertyUse=PrimaryResidence&refinancePropertyValue=480000&searchChanged=false&ttcid&userCreditScore=740&userFha=false&userVeteranStatus=NoMilitaryService&zipCode=30315)
-
 
 <div class="local" style="display:none">
 <a href="../patio">Patio</a>
