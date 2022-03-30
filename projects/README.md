@@ -4,8 +4,6 @@
 <a href="../patio">Patio</a>
 </div>
 
-TO DO: Drip drainage pipes and elbows
-
 ## AC Move
 
 Moving AC units to pads outside fence, relocating pipes in attic and on side of house.<br><br>
@@ -16,8 +14,7 @@ Moving AC units to pads outside fence, relocating pipes in attic and on side of 
 2. With the 19' verticle 7/8" pipe laid on the gound, add a 90 elbow connected to a 91" pipe, which Loren will feed into existing opening under the eve.<br><br>
 <a href="img/hvac-pipes/under-eve.jpg"><img src="img/hvac-pipes/under-eve.jpg" style="width:100%; max-width:500px"></a><a href="img/hvac-pipes/into-attic.jpg"><img src="img/hvac-pipes/into-attic.jpg" style="width:100%; max-width:500px"></a><br><br>
 
-3. Connect pipe in attic. (Diameter 27/32" - almost 7/8")<br><br>
-<a href="img/hvac-pipes/attic-pipe-diameter.jpg"><img src="img/hvac-pipes/attic-pipe-diameter.jpg" style="width:100%; max-width:250px"></a><br><br>
+3. Connect pipe in attic. (7/8" diameter)<br><br>
 
 4. Extend 3/4" pipe from under house 108". We have removed brick so it will not be necessary to go under house. (Currently 74" pipe goes from under house to AC). Place new pipe in 3" PVC.
 
@@ -25,12 +22,12 @@ Moving AC units to pads outside fence, relocating pipes in attic and on side of 
 
 6. Place both AC lines in the 4" elbow. Connect.
 
-7. Run pipes in 3" PVC and 4" elbow to AC units outside fence.
+7. Run pipes in PVC to AC units outside fence.<br><br>
+<a href="img/hvac-pipes/pipe-under-house.jpg"><img src="img/hvac-pipes/pipe-under-house.jpg" style="width:100%; max-width:700px; margin-right:10px"></a><a href="img/hvac-pipes/sidewalk-cut.jpg"><img src="img/hvac-pipes/sidewalk-cut.jpg" style="width:100%; max-width:700px; margin-right:10px"></a><a href="img/hvac-pipes/pipe-outside-fence.jpg"><img src="img/hvac-pipes/pipe-outside-fence.jpg" style="width:100%; max-width:500px"></a><br><br>
 
+8. Move AC serving upstairs. All R22 freon has already been removed. Use $50/lb R425a or similar to refill.  Unit has a leak in valve that prevented soldering. Earl says we can solder it now that all freon is removed.
 
-8. Move unit serving upstairs. All R22 freon has already been removed. Use $50/lb R425a or similar to refill.  Unit has a leak in valve that prevented soldering. Earl says we can solder now that all freon is removed.
-
-9. Pump down freon and move unit serving upstairs.
+9. Move AC serving downstairs. Pump down freon. This one is currently working. Confirm other AC is functional before disconnecting this one.
 
 <br>
 
@@ -67,7 +64,16 @@ Does not use email and needs equipment cash up front.  My search using his IDs f
 AC Repair Project - I'm looking for someone to replace a leaking service valve in an R22 unit so we can pump the freon down when relocating it. We're not able to read the label so we're not sure of the brand. It's been working well otherwise. It's connected to 3 ton, 90,000 BTU. Also interested in buying a quite running R22 for a 2.5 ton, 90,000 BTU system.
 -->
 
+#### Loren to buy:  
 
+4" pipe T with 3" sweep  
+2 - 4" to 2" couplers  
+
+#### Jeff to buy:
+
+Wire for upstairs unit.  About 60'.  
+Additional pipes and insulation.  
+3/4" and 7/8" pipe couplers and elbows.  
 
 
 ## Repointing Bricks
