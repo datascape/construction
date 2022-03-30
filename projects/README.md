@@ -68,6 +68,7 @@ AC Repair Project - I'm looking for someone to replace a leaking service valve i
 
 4" pipe T with 3" sweep  
 2 - 4" to 2" couplers  
+Trade Pipe & Plumbing (Expanding) Foam Genius 300ml - [Soudal](https://www.soudal.co.uk/diy/products/trade-range/sanitary/trade-pipe-plumbing-foam-gen)  
 
 #### Jeff to buy:
 
