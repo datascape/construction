@@ -6,6 +6,10 @@
 
 ## AC Move
 
+<!--
+Chip Weldon 770 938-4629 - (Cary Mandeville says he seems reasonable. He got his name from Scott Jones. Did his daughter Lena's house.)
+-->
+
 Moving AC units to pads outside fence, relocating pipe line set in attic and on side of house.<br><br>
 <a href="img/hvac-pipes/overhead.jpg"><img src="img/hvac-pipes/overhead.jpg" style="width:100%; max-width:500px"></a><br><br>
 
@@ -69,7 +73,7 @@ Does not use email and needs equipment cash up front.  My search using his IDs f
 AC Repair Project - I'm looking for someone to replace a leaking service valve in an R22 unit so we can pump the freon down when relocating it. We're not able to read the label so we're not sure of the brand. It's been working well otherwise. It's connected to 3 ton, 90,000 BTU. Also interested in buying a quite running R22 for a 2.5 ton, 90,000 BTU system.
 -->
 
-#### Loren to buy:  
+#### To buy:  
 
 Trade Pipe & Plumbing (Expanding) Foam Genius 300ml - [Soudal](https://www.soudal.co.uk/diy/products/trade-range/sanitary/trade-pipe-plumbing-foam-gen) or Blue 3M<!-- guy from McKinney's which is on Moreland, but drive an hour+ -->  
 Avoiding foams with Amines and Chlorinated phosphate esters such as TCPP (a/k/a tris-iso-chloropropyl phosphate)  
@@ -79,7 +83,6 @@ Avoiding foams with Amines and Chlorinated phosphate esters such as TCPP (a/k/a 
 2 - 4" to 2" couplers  
 -->
 
-#### Contractor to buy:
 
 Wire for upstairs unit.  About 60'.  
 Additional pipes and insulation.  
