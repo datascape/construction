@@ -6,15 +6,15 @@
 
 ## AC Move
 
-Moving AC units to pads outside fence, relocating pipes in attic and on side of house.<br><br>
+Moving AC units to pads outside fence, relocating pipe line set in attic and on side of house.<br><br>
 <a href="img/hvac-pipes/overhead.jpg"><img src="img/hvac-pipes/overhead.jpg" style="width:100%; max-width:500px"></a><br><br>
 
-1. Detach and reattach 7/8" pipe at back of attic HVAC to move under HVAC. (Currently goes over top of HVAC.)  Pipes have already been cut about 10 feet away from HVAC.  (Outside, the 7/8" pipe becomes 3/4" where it enters AC.)
+1. Detach and reattach 7/8" line set at back of attic HVAC to move under HVAC. (Currently goes over top of HVAC.)  Pipes have already been cut about 10 feet away from HVAC.  (Outside, the 7/8" pipe becomes 3/4" where it enters AC.)
 
-2. Add a 90° elbow to the top of verticle 7/8" pipe. We can either lay the pipe on the gound and solder a 91" pipe to the top to feed through a widened opening under the eve, or feed down from above and solder it on the side of the house.<br><br>
+2. Add a 90° elbow to the top of verticle 7/8" pipe. We can either lay the pipe on the ground and solder a 91" pipe to the top to feed through a widened opening under the eve, or feed down from above and solder it on the side of the house.<br><br>
 <a href="img/hvac-pipes/under-eve.jpg"><img src="img/hvac-pipes/under-eve.jpg" style="width:100%; max-width:500px"></a><a href="img/hvac-pipes/into-attic.jpg"><img src="img/hvac-pipes/into-attic.jpg" style="width:100%; max-width:500px"></a><br>
 
-3. Connect pipe in attic. (7/8" diameter)  
+3. Connect line set in attic. (7/8" diameter)  
 
 4. Extend 3/4" pipe from under house 108". We have removed brick so it will not be necessary to go under house. (Currently 74" pipe goes from under house to AC). Place new pipe in 3" PVC.
 
@@ -22,7 +22,7 @@ Moving AC units to pads outside fence, relocating pipes in attic and on side of 
 
 6. Place both AC lines in the 4" elbow. Connect.
 
-7. Run pipes in PVC to AC units outside fence.<br><br>
+7. Run line sets in PVC to AC units outside fence.<br><br>
 <a href="img/hvac-pipes/pipe-under-house.jpg"><img src="img/hvac-pipes/pipe-under-house.jpg" style="width:100%; max-width:700px; margin-right:10px"></a><a href="img/hvac-pipes/sidewalk-cut.jpg"><img src="img/hvac-pipes/sidewalk-cut.jpg" style="width:100%; max-width:700px; margin-right:10px"></a><a href="img/hvac-pipes/pipe-outside-fence.jpg"><img src="img/hvac-pipes/pipe-outside-fence.jpg" style="width:100%; max-width:500px"></a><br><br>
 
 8. Add 3/4" pipe valves to disconnected unit. Johnstone Supply Atlanta is transfering for us from their other store. 
