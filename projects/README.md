@@ -71,13 +71,15 @@ AC Repair Project - I'm looking for someone to replace a leaking service valve i
 
 #### Loren to buy:  
 
-4" pipe T with 3" sweep  
-2 - 4" to 2" couplers  
 Trade Pipe & Plumbing (Expanding) Foam Genius 300ml - [Soudal](https://www.soudal.co.uk/diy/products/trade-range/sanitary/trade-pipe-plumbing-foam-gen) or Blue 3M<!-- guy from McKinney's which is on Moreland, but drive an hour+ -->  
 Avoiding foams with Amines and Chlorinated phosphate esters such as TCPP (a/k/a tris-iso-chloropropyl phosphate)  
 8 corner pads to reduces vibration - about 4" by 4" at Johnstone Supply Atlanta.
+<!--
+4" pipe T with 3" sweep  
+2 - 4" to 2" couplers  
+-->
 
-#### Jeff to buy:
+#### Contractor to buy:
 
 Wire for upstairs unit.  About 60'.  
 Additional pipes and insulation.  
