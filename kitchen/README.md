@@ -50,7 +50,8 @@ After bumpout of exterior wall and addition of new north windows:
 | Plumbing for sink in kitchen island. (4" Drain pipe already runs to kitchen. Add "T" to for new bathroom.) | $500 | $800 |
 | Plumbing for sink in craftroom | $100 | $200 |
 
-
+<br>
+[FORIOUS Kitchen Faucet](img/faucet-forious.jpg) - Single Hole with Pull Down Sprayer Brushed Nickel - Faucet and displosal purchased 2022.
 
 ## Drywall, Interior Trim, Interior Painting, Interior Doors
 ||||
@@ -118,6 +119,15 @@ He assembles it all from wood and uses his spray shop.
 
 <a href="img/kitchen-blue-counters.jpg"><img src="img/kitchen-blue-counters.jpg" style="width:100%; max-width: 1200px"></a>  
 
+Create a pullout drawer for composting similar to Lomi on north side of island.<br>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Ypsrle85_9A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br><br>
+
+
+<!--
+High Arc Single Handle Kitchen Sink Faucet with Deck Plate, Commercial Modern rv Stainless Steel Kitchen Faucets, Grifos De Cocina
+-->
+
 <!--
 Old Kitchen window dimensions (to be removed):
 94” rod (86” trim to trim with 4” on each side) - Used 83” to 152”
@@ -142,9 +152,5 @@ Home Depot Minwax White wash -
 
 
 -->
-
-
-
-[Home](../) | [Upstairs](../upstairs/) | [Phases](../bumpout/)
 
 
