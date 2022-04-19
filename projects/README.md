@@ -37,7 +37,7 @@ Unit has a leak in valve that prevented soldering. Earl says we can solder it no
 Earl was told by the supply store that we could use $50/lb R425a or similar to refill.<br>
 Johnstone Supply Atlanta told Loren they use 407c, 427a, MO99 based on the pressure. Said to flush whole system for oil.  
 
-9. Pump down freon and move AC serving downstairs. This one is currently working. Confirm upstairs AC is functional before disconnecting downstairs AC.  Optional: Add 3/4" pipe valve.
+9. Pump down freon and move AC serving downstairs. This one is currently working. Ideally confirm upstairs AC is functional before disconnecting downstairs AC.  Optional: Add 3/4" pipe valve to this unit too.
 
 <br>
 
