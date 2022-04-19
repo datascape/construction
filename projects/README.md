@@ -7,36 +7,37 @@
 ## AC Move
 
 <!--
-Chip Weldon 770 938-4629 - (Cary Mandeville says he seems reasonable. He got his name from Scott Jones. Did his daughter Lena's house.)
+Josh at ACS Heating and Air in Tucker - Cell: 404-374-2987
+Monday 9:30am, April 18, 2022  
+
+Was too busy: Chip Weldon 770 938-4629 - (Cary Mandeville says he seems reasonable. He got his name from Scott Jones. Did his daughter Lena's house.)
 -->
 
 Moving AC units to pads outside fence, relocating pipe line set in attic and on side of house.<br><br>
 <a href="img/hvac-pipes/overhead.jpg"><img src="img/hvac-pipes/overhead.jpg" style="width:100%; max-width:500px"></a><br><br>
 
-1. Detach and reattach 7/8" line set at back of attic HVAC to move under HVAC. (Currently goes over top of HVAC.)  Pipes have already been cut about 10 feet away from HVAC.  (Outside, the 7/8" pipe becomes 3/4" where it enters AC.)
+1. Bend 7/8" line set 90° with 91" insert into attic. 
 
-2. Add a 90° elbow to the top of verticle 7/8" pipe. We can either lay the pipe on the ground and solder a 91" pipe to the top to feed through a widened opening under the eve, or feed down from above and solder it on the side of the house.<br><br>
+2. Move line under HVAC between attic floor rafters. (Currently goes over HVAC.)  Pipes have already been cut about 10 feet away from HVAC.  Outside, the 7/8" pipe becomes 3/4" where it enters AC.<br><br>
 <a href="img/hvac-pipes/under-eve.jpg"><img src="img/hvac-pipes/under-eve.jpg" style="width:100%; max-width:500px"></a><a href="img/hvac-pipes/into-attic.jpg"><img src="img/hvac-pipes/into-attic.jpg" style="width:100%; max-width:500px"></a><br>
 
-3. Connect line set in attic. (7/8" diameter)  
+3.  Reconnect line set in attic. (7/8" diameter) 
 
-4. Extend 3/4" pipe from under house 108". We have removed brick so it will not be necessary to go under house. (Currently 74" pipe goes from under house to AC). Place new pipe in 3" PVC.
+4. Extend 3/4" pipe from under house into PVC (We have all PVC). We have removed brick so line can be shifted over. (Currently 74" pipe goes from under house to AC). Place new lines in 3" PVC. Two will reside in 3" under sidewalk bricks, then connects to wide 4" elbow mad from 3 PVC pieces
 
 5. Add an elbow at bottom of verticle pipe from attic.
 
-6. Place both AC lines in the 4" elbow. Connect.
-
-7. Run line sets in PVC to AC units outside fence.<br><br>
+6. Run line sets in PVC to AC units outside fence.<br><br>
 <a href="img/hvac-pipes/pipe-under-house.jpg"><img src="img/hvac-pipes/pipe-under-house.jpg" style="width:100%; max-width:700px; margin-right:10px"></a><a href="img/hvac-pipes/sidewalk-cut.jpg"><img src="img/hvac-pipes/sidewalk-cut.jpg" style="width:100%; max-width:700px; margin-right:10px"></a><a href="img/hvac-pipes/pipe-outside-fence.jpg"><img src="img/hvac-pipes/pipe-outside-fence.jpg" style="width:100%; max-width:500px"></a><br><br>
 
-8. Add 3/4" pipe valves to disconnected unit. Johnstone Supply Atlanta is transfering for us from their other store. 
+7. Add 3/4" pipe valve to disconnected unit. Johnstone Supply Atlanta is transfering for us from their other store. 
 
-9. Move AC serving upstairs. All R22 freon has already been removed.<br>
+8. Move AC serving upstairs. All R22 freon has already been removed.<br>
 Unit has a leak in valve that prevented soldering. Earl says we can solder it now that all freon is removed.<br><br>
 Earl was told by the supply store that we could use $50/lb R425a or similar to refill.<br>
 Johnstone Supply Atlanta told Loren they use 407c, 427a, MO99 based on the pressure. Said to flush whole system for oil.  
 
-10. Move AC serving downstairs. This one is currently working. Confirm upstairs AC is functional before disconnecting downstairs AC. Pump down freon. Add 3/4" pipe valve when reconnecting.  
+9. Pump down freon and move AC serving downstairs. This one is currently working. Confirm upstairs AC is functional before disconnecting downstairs AC.  Optional: Add 3/4" pipe valve.
 
 <br>
 
@@ -73,21 +74,23 @@ Does not use email and needs equipment cash up front.  My search using his IDs f
 AC Repair Project - I'm looking for someone to replace a leaking service valve in an R22 unit so we can pump the freon down when relocating it. We're not able to read the label so we're not sure of the brand. It's been working well otherwise. It's connected to 3 ton, 90,000 BTU. Also interested in buying a quite running R22 for a 2.5 ton, 90,000 BTU system.
 -->
 
+<!--
 #### To buy:  
-
-Trade Pipe & Plumbing (Expanding) Foam Genius 300ml - [Soudal](https://www.soudal.co.uk/diy/products/trade-range/sanitary/trade-pipe-plumbing-foam-gen) or Blue 3M<!-- guy from McKinney's which is on Moreland, but drive an hour+ -->  
+Trade Pipe & Plumbing (Expanding) Foam Genius 300ml - [Soudal](https://www.soudal.co.uk/diy/products/trade-range/sanitary/trade-pipe-plumbing-foam-gen) or Blue 3M
 Avoiding foams with Amines and Chlorinated phosphate esters such as TCPP (a/k/a tris-iso-chloropropyl phosphate)  
-8 corner pads to reduces vibration - about 4" by 4" at Johnstone Supply Atlanta.
+-->
+<!-- guy from McKinney's which is on Moreland, but drive an hour+ -->  
+
+
+We have 8 rubber corner pads to reduces vibration - about 4" by 4" from Johnstone Supply Atlanta.
 <!--
 4" pipe T with 3" sweep  
 2 - 4" to 2" couplers  
--->
 
-
-Wire for upstairs unit.  About 60'.  
+Wire for upstairs unit.  About 65'.  
 Additional pipes and insulation.  
 3/4" and 7/8" pipe couplers and elbows.  
-<br>
+-->
 
 Johnstone Supply Atlanta is open weekdays 7am to 6pm, Saturday 9am to 1pm.  
 
@@ -155,11 +158,20 @@ Concrete pour
 
 ## Porch wood widths
 
-Need 3/4" by 4" pressure treated (green) wood - 8' or more
+Currently have 3/4" by 4" pressure treated (green) wood - 8' or more
 
-Pieces are 45" long. We need 34 pieces. So 16 8-foot, plus extras.
+Area by door: This may change if we swich to horizontal.  
+Pieces are currently 45" long. There are 34 pieces. So 16 8-foot, plus extras if we don't change direction.  
 
-The wood we have is 1/16" too short. But that is okay since we will replace entire areas by door.
+The wood we have is 1/16" too short. But that is okay since we will replace entire area by door.
+
+**Waiting for this to be available at Lowe's:**  
+
+<img src="img/porch/TimberTech-Azek.webp" style="width:100%; max-width:500px"><br>
+
+[TimberTech Azek Porch 12-ft Slate Gray Tongue and Groove PVC Porch Board Deck Board](https://www.lowes.com/pd/TimberTech-TimberTech-Azek-Porch-1-in-x-3-125-in-x-12-ft-Slate-Gray-Tongue-and-Groove-PVC-Board/5005488789)
+
+[Timbertech.com - Slate Gray](https://www.timbertech.com/product/porch-collection/)  
 
 ## Metal support poles in crawlspace
 
