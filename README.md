@@ -74,6 +74,10 @@ Windows have a tendency to leak over the years
 Metalbenderz.com - 16" floors too thick
 678-391-4423
 
+
+More
+
+Underside of eve to bottom of trim (by AC PVC) - 19' 7/8"
 -->
 
 

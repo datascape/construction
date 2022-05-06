@@ -7,14 +7,34 @@
 ## AC Move
 
 <!--
-Josh at ACS Heating and Air in Tucker - Cell: 404-374-2987
-Monday 9:30am, April 18, 2022  
+Jeffrey Walker  (205) 517-9408 - Recommended by Josh, his former employee.
+We're switching from R-22 to R-44, which will provide 10 to 20% energy savings.  
+After charging a unit, a flush is done to clean the oils out.  Jeffery installed AC Renew - a lubricant that blends with the system's oil, quiteing noisy systems and extending the life of the system. It lasts for the life of the equipment, or until the oil is changed.
 
-Was too busy: Chip Weldon 770 938-4629 - (Cary Mandeville says he seems reasonable. He got his name from Scott Jones. Did his daughter Lena's house.)
+Josh Pinson at ACS Heating and Air in Tucker - helpful info on pipe bending
+Came Monday 9:30am, April 18, 2022. Cell: 404-374-2987
+
+Was too busy: Chip Weldon 770 938-4629 - (Cary Mandeville says he seems reasonable. He got his name from Scott Jones. Did his daughter Lena's house.)  Suggested Josh.
 -->
 
 Moving AC units to pads outside fence, relocating pipe line set in attic and on side of house.<br><br>
 <a href="img/hvac-pipes/overhead.jpg"><img src="img/hvac-pipes/overhead.jpg" style="width:100%; max-width:500px"></a><br><br>
+
+Replace the existing lineset on both systems will ensure that we have a clean lineset that is properly sized for new 407C and future 410A refrigerants.  
+
+The attic line will be run up the edge of the home and secured to the side, run under the future attic floor and run back up on the far side of the existing coil and tied back in.  
+
+The downstairs will be run from the crawlspace coil to the new condenser location.  
+
+We will run the new linesets through the PVC piping that has been laid and set the condensers in their new location. 
+
+Once the linesets are tied in we will pull a proper vac and charge both systems with 407C per manufacture specifications.  
+<!--
+Please note there is absolutely no warranty of any kind for the existing equipment, if we are unable to pull a vac due to coil leaks or compressor issues or if the system does not hold a charge, we are not liable for this. A credit will be given for unused refrigerant if this is the case, but all other labor and materials will be billed in full.
+-->
+
+Note that 407C is a temporary refrigerant replacement for R22 and is not meant for long term use, there is no warranty for future compressor or coil issues that may result from long term 407C use in the system.
+
 
 1. Bend 7/8" line set 90° with 91" insert into attic. 
 
@@ -36,6 +56,7 @@ Moving AC units to pads outside fence, relocating pipe line set in attic and on 
 Unit has a leak in valve that prevented soldering. Earl says we can solder it now that all freon is removed.<br><br>
 Earl was told by the supply store that we could use $50/lb R425a or similar to refill.<br>
 Johnstone Supply Atlanta told Loren they use 407c, 427a, MO99 based on the pressure. Said to flush whole system for oil.  
+Josh said "Replace the existing lineset on both systems will ensure that we have a clean lineset that is properly sized for new 407C and future 410A refrigerants."
 
 9. Pump down freon and move AC serving downstairs. This one is currently working. Ideally confirm upstairs AC is functional before disconnecting downstairs AC.  Optional: Add 3/4" pipe valve to this unit too.
 
@@ -187,6 +208,7 @@ Add support poles with aluminum at top
 
 Northwest corner caulk  
 Nail holes and other repairs around house  
+Siding is at Carolina Lumber - 5.5" with 1/2 bottom and 1/4 inch top.  
 
 ## Porch floor
 
