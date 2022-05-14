@@ -6,7 +6,7 @@
 
 ## AC Move
 
-<!--
+<!-- 
 Jeffrey Walker  (205) 517-9408 - Recommended by Josh, his former employee.
 We're switching from R-22 to R-44, which will provide 10 to 20% energy savings.  
 After charging a unit, a flush is done to clean the oils out.  Jeffery installed AC Renew - a lubricant that blends with the system's oil, quiteing noisy systems and extending the life of the system. It lasts for the life of the equipment, or until the oil is changed.
