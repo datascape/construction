@@ -22,6 +22,10 @@ Bathroom to be added in middle room on south side of house.
 We have a new tub and toilet to use.  Their color is almond.  
 The tub has open ends. It will be set in wood or tile/stone.
 
+Existing: [California Faucets](calfaucets.com) - Weathered Copper from European Kitchen and Bathworks, 2655 Buford Highway. "Becuase Living Finishes are by nature more delicate, the only treatment recommended is a high quality wax like Renaissance Wax. No other cleaning is needed or recommmended."
+
+Upstairs tile: Tucson Marron 30x60cm, Dunwoody
+
 <a href="../bathrooms/downstairs/img/tub.png"><img src="../bathrooms/downstairs/img/tub.png" style="width:100%; max-width:600px"></a><br><br> 
 
 
