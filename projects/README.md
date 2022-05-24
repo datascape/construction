@@ -7,7 +7,27 @@
 ## AC Move
 
 <!-- 
-Jeffrey Walker  (205) 517-9408 - Recommended by Josh, his former employee.
+
+For 2023
+
+From Jeffrey Walker: With 2022 freons, a new outdoor condenser and evaporator coil to match the price is $1635.00.. We'll wait to 2023 so we can use the upcoming R-454B.  
+
+Jeffrey deals in Trane, Runtru by Trane, Air Temp and Bosch.
+
+Delaying upgrade to avoid switch to R410a, which is a HFC (Hydrofluorocarbons) being eliminated starting in 2023.  R44 is also an HFC, but it does not require special lubricants. R44 is $100 more per tank. We bought 2 tanks of R44 in May 2022.
+
+
+Honeywell, Trane Announce R-466A Refrigerant Collaboration.  Design compatible with R-410A equipment. Plus an additive package is added to the oil for R-466A. [UCDavis comparison](https://ucdavis.app.box.com/s/6bd1jw6g89usfelxpinpohlt1tju7lox)
+
+[Buy R22](https://abilityrefrigerants.com/product/r22-refrigerant-10-lbs/)
+
+
+
+May 2022
+
+R44 - Because there is no need to use expensive and hygroscopic synthetic lubricants, the risk of moisture ingress into a refrigeration system is completely avoided. RS-44 has significantly lower discharge temperatures and pressures than R22 which removes the problem of oil decomposition and also widens the applications for RS-44.
+
+Jeffrey Walker (205) 517-9408 - Recommended by Josh, his former employee.
 We're switching from R-22 to R-44, which will provide 10 to 20% energy savings.  
 After charging a unit, a flush is done to clean the oils out.  Jeffery installed AC Renew - a lubricant that blends with the system's oil, quiteing noisy systems and extending the life of the system. It lasts for the life of the equipment, or until the oil is changed.
 
@@ -17,7 +37,7 @@ Came Monday 9:30am, April 18, 2022. Cell: 404-374-2987
 Was too busy: Chip Weldon 770 938-4629 - (Cary Mandeville says he seems reasonable. He got his name from Scott Jones. Did his daughter Lena's house.)  Suggested Josh.
 -->
 
-Moving AC units to pads outside fence, relocating pipe line set in attic and on side of house.<br><br>
+New unit on AC unit on pad outside fence, Hard plastic pad is 24"x24". Current unit on pad is 24.5" x 24.5"<br><br>
 <a href="img/hvac-pipes/overhead.jpg"><img src="img/hvac-pipes/overhead.jpg" style="width:100%; max-width:500px"></a><br><br>
 
 Replace the existing lineset on both systems will ensure that we have a clean lineset that is properly sized for new 407C and future 410A refrigerants.  
